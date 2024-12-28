@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\successes\\.4c76d9a8509c5535529c84493d15a8c9c62fec43-audit.json",
+    "files": [
+        {
+            "date": 1702646420466,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\successes\\SP-2023-15-12-19-success.log",
+            "hash": "060dd8490633aef4ae66bbfb9cb19c33329c59db065cb53f8f0a3ebe65cd4484"
+        },
+        {
+            "date": 1702648809644,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\successes\\SP-2023-15-12-20-success.log",
+            "hash": "13ee44314e3e9b0fc086e16b86bd962d59840fb51db8d6550462d9ffbb75d3ec"
+        },
+        {
+            "date": 1702652400970,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\successes\\SP-2023-15-12-21-success.log",
+            "hash": "2507804777de03fb243c2c833e348abbe30e4b1df342433c076f95dbaa0f6ac3"
+        },
+        {
+            "date": 1702656004396,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\successes\\SP-2023-15-12-22-success.log",
+            "hash": "c831da88c0656a67955acf9db2695901def8c9fbf957b060eda1a066d8ffdfdb"
+        },
+        {
+            "date": 1702659600590,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\successes\\SP-2023-15-12-23-success.log",
+            "hash": "d3028de4f85100501ec1324ea1a3e53f9563d12c007f331fd108471c8f44b2b2"
+        }
+    ],
+    "hashType": "sha256"
+}

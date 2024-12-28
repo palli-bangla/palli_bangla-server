@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\successes\\.f9f56b41cc537aca4c15edf8f384867a578df810-audit.json",
+    "files": [
+        {
+            "date": 1702645379518,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\successes\\Grocery-Shop-2023-15-12-19-success.log",
+            "hash": "fba5e20baed57e9db146da8fdc8da07dd34e37ca24a92a805d3ef7d05a57c203"
+        }
+    ],
+    "hashType": "sha256"
+}

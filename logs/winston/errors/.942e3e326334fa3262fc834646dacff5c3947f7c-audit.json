@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\errors\\.942e3e326334fa3262fc834646dacff5c3947f7c-audit.json",
+    "files": [
+        {
+            "date": 1702646431235,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\errors\\SP-2023-15-12-19-error.log",
+            "hash": "72ae72e787b72b2d18735af501203da9814bc947af5145f16b04f03ac0af55ec"
+        },
+        {
+            "date": 1702648809649,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\errors\\SP-2023-15-12-20-error.log",
+            "hash": "aeedb57efe2ac754515887a802df24e5e194ceaba872dfe46fdd57d65fac77c0"
+        },
+        {
+            "date": 1702652400975,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\errors\\SP-2023-15-12-21-error.log",
+            "hash": "e34970012907a9160db1f2521b76485c28d59bd84a2f5455abdcf9bc22bf6abe"
+        },
+        {
+            "date": 1702656004400,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\errors\\SP-2023-15-12-22-error.log",
+            "hash": "965245101dd34af7f0d9c7863e59bb2254f9e20465260b642ec47c1679312b4b"
+        },
+        {
+            "date": 1702659600595,
+            "name": "C:\\Users\\mdiqb\\OneDrive\\Desktop\\recent-projects\\university-management-core-service-starter\\logs\\winston\\errors\\SP-2023-15-12-23-error.log",
+            "hash": "6f0f8211e3f6c8052cce4ec8870b1b9d336590052f28cf6c62e347c0b8076e7c"
+        }
+    ],
+    "hashType": "sha256"
+}

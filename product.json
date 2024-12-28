@@ -1,0 +1,211 @@
+ [
+        {
+            "_id": "676278e0dab59f38193fd6c5",
+            "product_name": "Pure Mustard Oil",
+            "size": "250 ml",
+            "price": 85,
+            "category": "Oil",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6c6",
+            "product_name": "Pure Mustard Oil",
+            "size": "500 ml",
+            "price": 165,
+            "category": "Oil",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6c7",
+            "product_name": "Pure Mustard Oil",
+            "size": "1 liter",
+            "price": 320,
+            "category": "Oil",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6c8",
+            "product_name": "Pure Mustard Oil",
+            "size": "2 liters",
+            "price": 610,
+            "category": "Oil",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6c9",
+            "product_name": "Pure Mustard Oil",
+            "size": "5 liters",
+            "price": 1470,
+            "category": "Oil",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6ca",
+            "product_name": "Palli Bangla Ghee",
+            "size": "200 grams",
+            "price": 350,
+            "category": "Ghee",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6cb",
+            "product_name": "Palli Bangla Ghee",
+            "size": "500 grams",
+            "price": 800,
+            "category": "Ghee",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6cc",
+            "product_name": "Palli Bangla Ghee",
+            "size": "1 kg",
+            "price": 1550,
+            "category": "Ghee",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6cd",
+            "product_name": "Palli Bangla Puffed Rice",
+            "size": "400 grams",
+            "price": 60,
+            "category": "Snacks",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6ce",
+            "product_name": "Palli Bangla Honey",
+            "size": "100 grams",
+            "price": 180,
+            "category": "Honey",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6cf",
+            "product_name": "Palli Bangla Honey",
+            "size": "200 grams",
+            "price": 350,
+            "category": "Honey",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6d0",
+            "product_name": "Palli Bangla Honey",
+            "size": "500 grams",
+            "price": 800,
+            "category": "Honey",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6d1",
+            "product_name": "Palli Bangla Honey",
+            "size": "1 kg",
+            "price": 1550,
+            "category": "Honey",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6d2",
+            "product_name": "Palli Bangla Red Sugar",
+            "size": "1 kg",
+            "price": 280,
+            "category": "Sugar",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6d3",
+            "product_name": "Palli Bangla Lentil Dal",
+            "size": "1 kg",
+            "price": 160,
+            "category": "Grains",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6d4",
+            "product_name": "Palli Bangla Powdered Sugar Rice",
+            "size": "1 kg",
+            "price": 165,
+            "category": "Sugar",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6d5",
+            "product_name": "Palli Bangla Red Mosquito Coil",
+            "size": "1 packet",
+            "price": 60,
+            "category": "Household",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6d6",
+            "product_name": "Palli Bangla Super King Mosquito Coil",
+            "size": "1 packet",
+            "price": 100,
+            "category": "Household",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        },
+        {
+            "_id": "676278e0dab59f38193fd6d7",
+            "product_name": "Palli Bangla Turmeric Powder",
+            "size": "100 grams",
+            "price": 75,
+            "category": "Spices",
+            "stock": 100,
+            "is_available": true,
+            "createdAt": "2024-12-18T08:15:30.000Z",
+            "updatedAt": "2024-12-18T08:15:30.000Z"
+        }
+    ]
